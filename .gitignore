@@ -10,8 +10,7 @@ server/uploads
 server/.env
 Client/.env
 
-/.pnp
-.pnp.js
+
 
 # testing
 /coverage
