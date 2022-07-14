@@ -10,7 +10,16 @@ server/uploads
 server/.env
 Client/.env
 
+/.pnp
+.pnp.js
 
+# testing
+/coverage
+
+# production
+/build
+
+*.bat
 
 # misc
 .DS_Store
